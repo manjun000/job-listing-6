@@ -1,5 +1,7 @@
 # README
 
+这是自己手打的，代码可能会出错
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
